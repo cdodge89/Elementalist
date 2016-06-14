@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elementalist.CSharp", "Elementalist.CSharp.csproj", "{872460BC-C878-CA27-916A-635CD22641E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elementalist.CSharp.Editor.Plugins", "Elementalist.CSharp.Editor.Plugins.csproj", "{F090DFD1-15D3-6CCC-C92C-CA2978B6F52F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{872460BC-C878-CA27-916A-635CD22641E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{872460BC-C878-CA27-916A-635CD22641E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{872460BC-C878-CA27-916A-635CD22641E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{872460BC-C878-CA27-916A-635CD22641E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F090DFD1-15D3-6CCC-C92C-CA2978B6F52F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F090DFD1-15D3-6CCC-C92C-CA2978B6F52F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F090DFD1-15D3-6CCC-C92C-CA2978B6F52F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F090DFD1-15D3-6CCC-C92C-CA2978B6F52F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
